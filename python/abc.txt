@@ -1,0 +1,1 @@
+{"name": "Atul Shahi", "age": 19, "course": "B.Tech CSE (AI & ML)", "university": "Parul University", "skills": ["HTML", "CSS", "JavaScript", "Python"], "year": 1}
