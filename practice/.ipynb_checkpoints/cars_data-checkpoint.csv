@@ -1,0 +1,6 @@
+Car_ID,Brand,Model,Year,Price_USD,Fuel_Type
+1,Toyota,Corolla,2020,20000,Petrol
+2,Honda,Civic,2019,22000,Petrol
+3,Ford,Mustang,2021,35000,Petrol
+4,Hyundai,i20,2018,15000,Diesel
+5,BMW,X5,2022,60000,Petrol
