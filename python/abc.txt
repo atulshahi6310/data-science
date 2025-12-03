@@ -1,0 +1,97 @@
+Sure Atul! Here are **20 practice questions** — **5 each** for **NumPy, Pandas, Matplotlib, and Seaborn**.
+These are perfect for building your data-analysis skills.
+
+---
+
+# ✅ **NumPy – 5 Questions**
+
+1. Create a NumPy array of shape **(3, 4)** with random integers between 1 and 50.
+
+   * Find the **max**, **min**, **mean**, and **standard deviation**.
+
+2. Given an array:
+
+   ```python
+   arr = np.array([1,2,3,4,5,6,7,8,9,10])
+   ```
+
+   * Extract all **even numbers** using boolean indexing.
+
+3. Create a **5×5 identity matrix** and replace the diagonal with the number **7**.
+
+4. Generate a **3×3** NumPy matrix and calculate its **determinant** and **inverse**.
+
+5. Create an array from 0–20.
+
+   * Reshape it into a **4×5** matrix (it should give an error — fix it correctly).
+
+---
+
+# ✅ **Pandas – 5 Questions**
+
+1. Create a DataFrame of students with columns:
+   **Name, Age, Marks** (5 students).
+
+   * Find the **average marks** and **student with highest marks**.
+
+2. Load a CSV file into a DataFrame.
+
+   * Display only the first **3 rows** and last **3 rows**.
+
+3. Create this DataFrame:
+
+   ```python
+   {'City':['Delhi','Mumbai','Pune','Surat'],
+    'Temp':[40, 32, 35, 38],
+    'Rain':[10, 25, 12, 5]}
+   ```
+
+   * Find cities where **Temp > 35**.
+
+4. Given a DataFrame, drop rows with **missing values (NaN)** and fill remaining NaN with **0**.
+
+5. Group a DataFrame by a column named **"Category"** and calculate the **sum of Sales** for each category.
+
+---
+
+# ✅ **Matplotlib – 5 Questions**
+
+1. Plot a **line chart** of years vs population:
+   years = [2015,2016,2017,2018,2019]
+   population = [30,34,36,32,40]
+
+   * Add title, labels, and grid.
+
+2. Create a **bar chart** showing marks of 4 students:
+
+   * Names: A, B, C, D
+   * Marks: 78, 85, 67, 92
+
+3. Plot a **scatter plot** showing height vs weight of 10 people.
+
+4. Plot a **pie chart** for these values:
+   Mobile = 40%, Laptop = 25%, Tablet = 15%, TV = 20%.
+
+5. Plot two lines on the same graph:
+
+   * India GDP
+   * China GDP
+   * Add legend, line style, and marker.
+
+---
+
+# ✅ **Seaborn – 5 Questions**
+
+1. Load the **tips** dataset and create a **histplot** of total_bill.
+
+2. Create a **boxplot** showing distribution of **"sepal_length"** for each **species** using the *iris* dataset.
+
+3. Create a **countplot** showing how many males/females are in the tips dataset.
+
+4. Plot a **heatmap** of correlation matrix of the iris dataset.
+
+5. Create a **pairplot** of the iris dataset with hue="species".
+
+---
+
+If you want, I can also give you **solutions** or create a **PDF/CSV file** containing these questions.
